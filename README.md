@@ -10,4 +10,6 @@
 
 - PASTA PRINTS DO PROJETO --> CONTÉM PRINTS DO PROJETO
 
+
+# SIMULAÇÃO DAS ZONAS DE PROTEÇÃO (ESFERAS ROLANTES)
 ![Zonas de Proteção](https://github.com/Luiz895/TCC/blob/main/Imagens%20Print%20do%20Projeto/Zonas%20de%20Prote%C3%A7%C3%A3o.jfif)
